@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yangfengyuan/Downloads/base/app/build/intermediates/res/merged/debug/anim/down_pop_dialog_exit.xml",
+        "source": "/Users/yangfengyuan/Downloads/base/app/src/main/res/anim/down_pop_dialog_exit.xml"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Desktop/base/app/build/intermediates/res/merged/debug/anim/down_pop_dialog_exit.xml",
+        "source": "/Users/yangfengyuan/Desktop/base/app/src/main/res/anim/down_pop_dialog_exit.xml"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Desktop/base/app/build/intermediates/res/merged/debug/anim/down_pop_dialog_enter.xml",
+        "source": "/Users/yangfengyuan/Desktop/base/app/src/main/res/anim/down_pop_dialog_enter.xml"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Downloads/base/app/build/intermediates/res/merged/debug/anim/down_pop_dialog_enter.xml",
+        "source": "/Users/yangfengyuan/Downloads/base/app/src/main/res/anim/down_pop_dialog_enter.xml"
+    }
+]

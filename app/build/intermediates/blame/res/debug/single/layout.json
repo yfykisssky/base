@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/yangfengyuan/Downloads/base/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/yangfengyuan/Downloads/base/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Downloads/base/app/build/intermediates/res/merged/debug/layout/base_dialog_loading.xml",
+        "source": "/Users/yangfengyuan/Downloads/base/app/src/main/res/layout/base_dialog_loading.xml"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Desktop/base/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/yangfengyuan/Desktop/base/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Desktop/base/app/build/intermediates/res/merged/debug/layout/base_scan_activity_capture.xml",
+        "source": "/Users/yangfengyuan/Desktop/base/app/src/main/res/layout/base_scan_activity_capture.xml"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Downloads/base/app/build/intermediates/res/merged/debug/layout/base_scan_activity_capture.xml",
+        "source": "/Users/yangfengyuan/Downloads/base/app/src/main/res/layout/base_scan_activity_capture.xml"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Desktop/base/app/build/intermediates/res/merged/debug/layout/base_dialog_loading.xml",
+        "source": "/Users/yangfengyuan/Desktop/base/app/src/main/res/layout/base_dialog_loading.xml"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Downloads/base/app/build/intermediates/res/merged/debug/layout/base_dialog_update_file.xml",
+        "source": "/Users/yangfengyuan/Downloads/base/app/src/main/res/layout/base_dialog_update_file.xml"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Desktop/base/app/build/intermediates/res/merged/debug/layout/base_dialog_update_file.xml",
+        "source": "/Users/yangfengyuan/Desktop/base/app/src/main/res/layout/base_dialog_update_file.xml"
+    }
+]

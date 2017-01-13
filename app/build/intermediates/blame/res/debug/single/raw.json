@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yangfengyuan/Downloads/base/app/build/intermediates/res/merged/debug/raw/realm_properties",
+        "source": "/Users/yangfengyuan/Downloads/base/app/src/main/res/raw/realm_properties"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Downloads/base/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/yangfengyuan/Downloads/base/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Desktop/base/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/yangfengyuan/Desktop/base/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Desktop/base/app/build/intermediates/res/merged/debug/raw/realm_properties",
+        "source": "/Users/yangfengyuan/Desktop/base/app/src/main/res/raw/realm_properties"
+    }
+]

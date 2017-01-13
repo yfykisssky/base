@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yangfengyuan/Downloads/base/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/loading.gif",
+        "source": "/Users/yangfengyuan/Downloads/base/app/src/main/res/drawable-ldpi/loading.gif"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Desktop/base/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/progressbar_style.xml",
+        "source": "/Users/yangfengyuan/Desktop/base/app/src/main/res/drawable-ldpi/progressbar_style.xml"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Downloads/base/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/progressbar_style.xml",
+        "source": "/Users/yangfengyuan/Downloads/base/app/src/main/res/drawable-ldpi/progressbar_style.xml"
+    },
+    {
+        "merged": "/Users/yangfengyuan/Desktop/base/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/loading.gif",
+        "source": "/Users/yangfengyuan/Desktop/base/app/src/main/res/drawable-ldpi/loading.gif"
+    }
+]
